@@ -11,5 +11,7 @@ To learn Git
 
 ## Deployment
 
-## How to Contribute
+To deploy
 
+## How to Contribute
+Like this
